@@ -1,5 +1,7 @@
 # Ce que j'apprends du Trading
 
+Je suis tout nouveau dans ce domaine don j'apprend de nouvelles choses
+
 ## Stratégies
 
 https://www.youtube.com/watch?v=3zHHblez6O0
