@@ -1,6 +1,6 @@
 # Ce que j'apprends du Trading
 
-Je suis tout nouveau dans ce domaine don j'apprend de nouvelles choses
+Je suis tout nouveau dans ce domaine donc j'apprend de nouvelles choses, nouvelles connexions synaptiques et tout
 
 ## Stratégies
 
