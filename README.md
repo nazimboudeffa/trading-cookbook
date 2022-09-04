@@ -1,6 +1,6 @@
 # Ce que j'apprends du Trading
 
-Je suis tout nouveau dans ce domaine donc j'apprend de nouvelles choses, nouvelles connexions synaptiques et tout
+Je suis tout nouveau dans ce domaine donc j'apprend de nouvelles choses, nouvelles connexions synaptiques et tout, c'est pomme HTML/CSS/JS où je sais tout mais j'oublie
 
 ## Stratégies
 
