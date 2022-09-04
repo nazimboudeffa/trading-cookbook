@@ -11,3 +11,12 @@ https://www.youtube.com/watch?v=3zHHblez6O0
 - Swing Trading, on travaille sur plusieures jours, lundi matin analyse, on place une position, on prend des TP plut haut et SL moins bas, elle utilise l'analyse de tendences, pas neutre
 
 ATTENTION il faut se tenir à une stratégie
+
+https://www.youtube.com/watch?v=1_j_sPDa5Hc
+
+Utiliser le RSI + Stockastique
+
+- définir avec le RSI la zone de surachat ou survente
+- définir la tendence avec le stockastique
+- se positionner en achat ou en vente
+- claculer le TP en fonction du RSI et SL = 1/2 pips de TP vers le bas
