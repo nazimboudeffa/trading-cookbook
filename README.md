@@ -20,3 +20,9 @@ Utiliser le RSI + Stockastique
 - définir la tendence avec le stockastique
 - se positionner en achat ou en vente
 - claculer le TP en fonction du RSI et SL = 1/2 pips de TP vers le bas
+
+https://www.youtube.com/watch?v=pMzxtjwPJQI
+
+Le RSI
+
+- Attendre que la survente ou surachat rerentre et va vers la zone des 50 pour se positionner
