@@ -26,3 +26,9 @@ https://www.youtube.com/watch?v=pMzxtjwPJQI
 Le RSI
 
 - Attendre que la survente ou surachat rerentre et va vers la zone des 50 pour se positionner
+
+https://www.youtube.com/watch?v=4cuToEWxIMc
+
+Le RSI
+
+- période de 14 pour day trading sinon pour scalping 7
