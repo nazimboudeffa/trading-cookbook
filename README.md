@@ -32,3 +32,5 @@ https://www.youtube.com/watch?v=4cuToEWxIMc
 Le RSI
 
 - période de 14 pour day trading sinon pour scalping 7
+
+Merci https://www.etoro.com/people/nazimboudeffa
