@@ -4,7 +4,7 @@ Je suis tout nouveau dans ce domaine donc j'apprend de nouvelles choses, nouvell
 
 L'objectif est de partir de **100$** et voir jusqu'où on peut aller
 
-## Traveaux
+## Travaux
 
 - https://github.com/nazimboudeffa/mql5-scripts
 - https://github.com/nazimboudeffa/mql5-cookbook
