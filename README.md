@@ -2,6 +2,11 @@
 
 Je suis tout nouveau dans ce domaine donc j'apprend de nouvelles choses, nouvelles connexions synaptiques et tout, c'est pas comme HTML/CSS/JS où je sais tout mais j'oublie
 
+## Traveaux
+
+- https://github.com/nazimboudeffa/mql5-scripts
+- https://github.com/nazimboudeffa/mql5-cookbook
+
 ## Stratégies
 
 https://www.youtube.com/watch?v=3zHHblez6O0
