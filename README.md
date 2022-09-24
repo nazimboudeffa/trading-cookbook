@@ -2,6 +2,8 @@
 
 Je suis tout nouveau dans ce domaine donc j'apprend de nouvelles choses, nouvelles connexions synaptiques et tout, c'est pas comme HTML/CSS/JS où je sais tout mais j'oublie
 
+L'objectif est de partir de 100$
+
 ## Traveaux
 
 - https://github.com/nazimboudeffa/mql5-scripts
